@@ -1,5 +1,5 @@
 alloy.ee:
-  name: "ALLOY NETWORK"
+  name: "Alloy Networks"
   description: "Alloy Networks is a division of Titanium OÜ, a company headquartered in Estonia. Titanium is a multi-disciplinary company with interests in areas as diverse as Technology, Retail and International Trade. The team behind Alloy Networks has almost 30 years of experience in the business and technology space. We have domain expertise in multiple industries, allowing us to approach your application hosting requirements from the perspective of the business owner. We pride ourselves in being a boutique company, with an eye on detail. We do not provide commodity servers or services, which are better served by other companies. We will go that extra mile to customize a hosting solution to fit your needs. We use extensive automation tools that allows us to keep our services highly available and secure. Apart from private clouds, we host some extremely high traffic e-commerce sites, and work with our clients as partners rather than service providers."
   twitter: alloynetworks
   web: "https://www.alloy.ee/"
@@ -99,9 +99,14 @@ www.attokyo.com:
   web: "https://www.attokyo.com/"
 www.bahnhof.se:
   name: BAHNHOF
-  description: "Bahnhof (German for 'train station') is a Swedish Internet service provider (ISP) founded in 1994 by Oscar Swartz in Uppsala, Sweden, and is the country's first independent ISP. Today the company is represented in Stockholm, Gothenburg, Uppsala, Borlänge, Malmö and Umeå. WikiLeaks used[4] to be hosted in a Bahnhof data center inside the ultra-secure bunker Pionen, which is buried inside the White Mountains in Stockholm."
+  description: "Bahnhof (German for 'train station') is a Swedish Internet service provider (ISP) founded in 1994 by Oscar Swartz in Uppsala, Sweden, and is the country's first independent ISP. Today the company is represented in Stockholm, Gothenburg, Uppsala, Borlänge, Malmö and Umeå. WikiLeaks used to be hosted in a Bahnhof data center inside the ultra-secure bunker Pionen, which is buried inside the White Mountains in Stockholm."
   twitter: bahnhofab
   web: "https://www.bahnhof.se/"
+validator.xrpchat.com:
+  name: XRP Chat
+  description: "The Largest XRP and Ripple Community Forum. Honest discussion about Ripple, XRP and the Interledger protocol. News, competitions and community interaction."
+  twitter: xrpchat
+  web: "https://www.xrpchat.com/"
 xrp.unic.ac.cy:
   name: "University Nicosia"
   description: "The University of Nicosia (UNIC) is the largest university in Cyprus, with its main campus located in Nicosia, the capital of Cyprus. It also runs study centres in Athens, Bucharest and New York City. The University of Nicosia has 12,000+ enrolled students from 70+ countries studying on its bachelor, master and doctoral degree programmes, that are delivered by its 6 schools."
