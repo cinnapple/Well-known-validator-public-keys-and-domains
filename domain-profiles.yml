@@ -83,6 +83,11 @@ shadow.haas.berkeley.edu:
   description: "The Walter A. Haas School of Business, also known as the Haas School of Business or Berkeley Haas, is one of 14 schools and colleges at the University of California, Berkeley. The school is housed in four buildings surrounding a central courtyard on the southeastern corner of the UC Berkeley campus. It was the nation's first business school at a public university and is ranked as a global top ten business school by The Economist, Financial Times, and Bloomberg Businessweek."
   twitter: BerkeleyHaas
   web: "https://haas.berkeley.edu/"
+validator.xrpchat.com:
+  name: XRP Chat
+  description: "The Largest XRP and Ripple Community Forum. Honest discussion about Ripple, XRP and the Interledger protocol. News, competitions and community interaction."
+  twitter: xrpchat
+  web: "https://www.xrpchat.com/"
 validator.xrptipbot.com:
   name: "XRP Tip Bot"
   description: "Send and receive tips and micro-donations in XRP right here on Twitter. Also available on Reddit and Discord (by @WietseWind)"
@@ -102,11 +107,6 @@ www.bahnhof.se:
   description: "Bahnhof (German for 'train station') is a Swedish Internet service provider (ISP) founded in 1994 by Oscar Swartz in Uppsala, Sweden, and is the country's first independent ISP. Today the company is represented in Stockholm, Gothenburg, Uppsala, Borlänge, Malmö and Umeå. WikiLeaks used to be hosted in a Bahnhof data center inside the ultra-secure bunker Pionen, which is buried inside the White Mountains in Stockholm."
   twitter: bahnhofab
   web: "https://www.bahnhof.se/"
-validator.xrpchat.com:
-  name: XRP Chat
-  description: "The Largest XRP and Ripple Community Forum. Honest discussion about Ripple, XRP and the Interledger protocol. News, competitions and community interaction."
-  twitter: xrpchat
-  web: "https://www.xrpchat.com/"
 xrp.unic.ac.cy:
   name: "University Nicosia"
   description: "The University of Nicosia (UNIC) is the largest university in Cyprus, with its main campus located in Nicosia, the capital of Cyprus. It also runs study centres in Athens, Bucharest and New York City. The University of Nicosia has 12,000+ enrolled students from 70+ countries studying on its bachelor, master and doctoral degree programmes, that are delivered by its 6 schools."
