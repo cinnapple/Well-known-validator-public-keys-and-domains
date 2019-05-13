@@ -78,6 +78,11 @@ ripple.telinduscloud.lu:
   description: "Telindus was a legal entity based in Belgium that offered ICT services and solutions to the corporate and public sector, both in Belgium and internationally. These solutions also contained management and support services in relation to their ICT contracts. Telindus was founded by John Cordier in 1969. Based in Heverlee, which is a part of Leuven, it was listed on the stock market in 1985 and grew in Europe by taking over various companies. In 2005, it achieved a turnover of €618 million, had 2,750 employees, and was present in 6 western European countries. In January 2006 Belgium's largest telecommunications provider Belgacom Group, today named Proximus Group acquired Telindus for it to become its IT services subsidiary.[1] Telindus continued to operate under the brand name Telindus - Proximus ICT. On January 4, 2010 the existence of Telindus as a legal entity ended as it was then fully absorbed into the Proximus Group. The Group retains Telindus as a brand name."
   twitter: Telindustelecom
   web: "https://www.telindus.lu/en"
+rippled.gatehub.net:
+  name: "GateHub"
+  description: ""
+  twitter: GateHub
+  web: "https://gatehub.net/"
 ripplevalidator.uwaterloo.ca:
   name: "University of Waterloo"
   description: ""
