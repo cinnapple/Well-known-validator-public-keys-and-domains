@@ -43,6 +43,11 @@ flagshipsolutionsgroup.com:
   description: "Flagship Solutions Group provides IBM solutions, managed services and cloud solutions worldwide. These include data center strategic planning and hybrid cloud implementations based on a wide range of assessments that look at virtualization, server consolidation, security, and infrastructure-focused integration. Flagship’s managed services include cloud based server monitoring and management, 24×7 helpdesk support, and data center infrastructure management. Flagship can help your company become an IBM Industry Solution Reseller (ISR). We are a certified IBM Industry Solution Integrator (ISI) and can offer you our expertise in IBM software, hardware and solution integration capabilities."
   twitter: flagshipsg
   web: "https://www.flagshipsg.com/"
+isrdc.in:
+  name: "Indian Institute of Technology Bombay"
+  description: "ISRDC at IIT Bombay is one of the four information security research centers spread across India. ISRDC @ IIT-Bombay does R&D in a wide range of topics in information security and privacy. It regularly undertakes short courses for development of human resources working in information security, apart from the regular courses offered to graduate students at IIT Bombay. It has a strong research team and actively collaborates with industry and academia. The expertise developed through research at the center are disseminated through consultancy and joint projects. The center welcomes bright students from all disciplines to explore research opportunities in information security & privacy."
+  twitter: iitbombay
+  web: "https://isrdc.in/"
 peerisland.com:
   name: "Peer Island"
   description: "Supporting the XRP Community with a default UNL validator and some XRPL tools."
