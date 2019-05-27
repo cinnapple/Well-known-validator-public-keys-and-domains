@@ -73,6 +73,11 @@ ripple.kenan-flagler.unc.edu:
   description: "The Kenan–Flagler Business School is the undergraduate and graduate business school at the University of North Carolina at Chapel Hill. The school offers a Bachelor of Science in Business Administration, Master of Business Administration (MBA), MBA for Executives, Master of Accounting, Ph.D., a business certificate program, as well as many executive education programs."
   twitter: kenanflagler
   web: "https://www.kenan-flagler.unc.edu/"
+ripple.morgan.edu:
+  name: "Morgan State University"
+  description: "Morgan State University (MSU, Morgan State, or Morgan) is a public historically black university in Baltimore, Maryland. It is Maryland's largest of Maryland's historically black colleges and universities (HBCUs)."
+  twitter: MorganStateU
+  web: "https://morgan.edu/"
 ripple.ntt.com:
   name: "NTT Communications"
   description: "NTT Communications is a leading global provider of information and communications technology (ICT) solutions and part of the NTT Group, a top 100 ranked corporation in the Fortune Global 500."
