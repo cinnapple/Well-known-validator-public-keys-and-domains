@@ -78,11 +78,6 @@ ripple.kenan-flagler.unc.edu:
   description: "The Kenan–Flagler Business School is the undergraduate and graduate business school at the University of North Carolina at Chapel Hill. The school offers a Bachelor of Science in Business Administration, Master of Business Administration (MBA), MBA for Executives, Master of Accounting, Ph.D., a business certificate program, as well as many executive education programs."
   twitter: kenanflagler
   web: "https://www.kenan-flagler.unc.edu/"
-ripple.morgan.edu:
-  name: "Morgan State University"
-  description: "Morgan State University (MSU, Morgan State, or Morgan) is a public historically black university in Baltimore, Maryland. It is Maryland's largest of Maryland's historically black colleges and universities (HBCUs)."
-  twitter: MorganStateU
-  web: "https://morgan.edu/"
 ripple.ntt.com:
   name: "NTT Communications"
   description: "NTT Communications is a leading global provider of information and communications technology (ICT) solutions and part of the NTT Group, a top 100 ranked corporation in the Fortune Global 500."
@@ -137,6 +132,16 @@ www.bahnhof.se:
   description: "Bahnhof (German for 'train station') is a Swedish Internet service provider (ISP) founded in 1994 by Oscar Swartz in Uppsala, Sweden, and is the country's first independent ISP. Today the company is represented in Stockholm, Gothenburg, Uppsala, Borlänge, Malmö and Umeå. WikiLeaks used to be hosted in a Bahnhof data center inside the ultra-secure bunker Pionen, which is buried inside the White Mountains in Stockholm."
   twitter: bahnhofab
   web: "https://www.bahnhof.se/"
+www.bitrue.com:
+  name: "Bitrue"
+  description: "Bitrue exchange is established by a group of blockchain enthusiasts and focus on cryptocurrency trading."
+  twitter: "BitrueOfficial"
+  web: "https://www.bitrue.com/"
+www.morgan.edu:
+  name: "Morgan State University"
+  description: "Morgan State University (MSU, Morgan State, or Morgan) is a public historically black university in Baltimore, Maryland. It is Maryland's largest of Maryland's historically black colleges and universities (HBCUs)."
+  twitter: "MorganStateU"
+  web: "https://www.morgan.edu/"
 xrp-col.anu.edu.au:
   name: "The Australian National University"
   description: "The Australian National University is a national research university located in Canberra, the capital of Australia."
@@ -145,7 +150,7 @@ xrp-col.anu.edu.au:
 xrp.coinfield.com:
   name: "CoinField"
   description: "CoinField™ is based in Vancouver, Canada and is the digital currency trading platform built with advanced technologies ensuring fast trades, a smooth user experience, top-of-the-line security offering one of the largest cryptocurrency portfolio worldwide."
-  twitter: "coinfield"
+  twitter: CoinFieldEX
   web: "https://www.coinfield.com/"
 xrp.unic.ac.cy:
   name: "University Nicosia"
