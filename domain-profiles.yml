@@ -38,11 +38,21 @@ coil.com:
   description: "We change the way you monetize content on the web! We think our idea is pretty rad, but it’s really not that radical. It comes from a belief that all people deserve effortless commerce. Coil exists because content monetization doesn’t work for everyone, and we think it should. Our model offers an alternative to the status quo of paid advertisements and selling the public’s attention to the highest bidders – A solution that will serve the people who aren’t being served well today."
   twitter: Coil
   web: "https://coil.com/"
+crcm-xrp.blockdaemon.com:
+  name: "Blockdaemon"
+  description: "At Blockdaemon, we empower businesses to quickly deploy and iterate innovative blockchain applications. The onramp to blockchains with existing cloud formation tooling is steep and requires intimate understanding of each protocol’s particular language. We aim to reduce the complexity of working with blockchains with standard containerized deployments. We enable quick and easy configuration, standard monitoring for high availability and quality of service, and we regularly update and deploy crucial security and protocol updates."
+  twitter: _blockdaemon 
+  web: "https://blockdaemon.com/"
 data443.com:
   name: "Data 443"
   description: "Data443 Risk Mitigation, Inc. was formed December 2017 to identify whitespace existing in the security offerings of competitors and fill those gaps with self-developed and/or acquired technologies to offer to the market. To that end, the company has a growing R&D team and an active acquisitions and financing team - both of which act quickly on targeting opportunities (both customer & acquisition candidates) to quickly bring to market. Primary focus is on current and next generation cyber security product offerings - for cloud and on premise consumption."
   twitter: data443Risk
   web: "https://www.data443.com/"
+fintechlab.nus.edu.sg:
+  name: "Fintech Lab at National University of Singapore School of Computing"
+  description: "The FinTech Lab located at NUS School of Computing is an academic lab with a vision to transform our daily lives, safely with FinTech. The lab’s primary focus is to educate the ecosystem including schools, regulators, lawyers, bankers, corporations and innovators."
+  twitter: nusingapore 
+  web: "https://fintechlab.nus.edu.sg/"
 flagshipsolutionsgroup.com:
   name: "Flagship Solutions Group"
   description: "Flagship Solutions Group provides IBM solutions, managed services and cloud solutions worldwide. These include data center strategic planning and hybrid cloud implementations based on a wide range of assessments that look at virtualization, server consolidation, security, and infrastructure-focused integration. Flagship’s managed services include cloud based server monitoring and management, 24×7 helpdesk support, and data center infrastructure management. Flagship can help your company become an IBM Industry Solution Reseller (ISR). We are a certified IBM Industry Solution Integrator (ISI) and can offer you our expertise in IBM software, hardware and solution integration capabilities."
@@ -53,6 +63,11 @@ isrdc.in:
   description: "ISRDC at IIT Bombay is one of the four information security research centers spread across India. ISRDC @ IIT-Bombay does R&D in a wide range of topics in information security and privacy. It regularly undertakes short courses for development of human resources working in information security, apart from the regular courses offered to graduate students at IIT Bombay. It has a strong research team and actively collaborates with industry and academia. The expertise developed through research at the center are disseminated through consultancy and joint projects. The center welcomes bright students from all disciplines to explore research opportunities in information security & privacy."
   twitter: iitbombay
   web: "https://isrdc.in/"
+okonto.com:
+  name: "Okonto"
+  description: "Introducing a reliable, secure and fully licensed digital assets platform, where you can easily and conveniently invest, buy or sell digital assets."
+  twitter: okonto 
+  web: "https://www.okonto.com/"
 peerisland.com:
   name: "Peer Island"
   description: "Supporting the XRP Community with a default UNL validator and some XRPL tools."
@@ -64,6 +79,11 @@ rabbitkick.club:
   twitter: RabbitKickClub
   web: "https://rabbitkick.club/index.html"
 ripple.com:
+  name: Ripple
+  description: "Ripple provides one frictionless experience to send money globally using the power of blockchain. By joining Ripple’s growing, global network (RippleNet), financial institutions can process their customers’ payments anywhere in the world instantly, reliably and cost-effectively. Banks and payment providers can use the digital asset XRP to further reduce their costs and access new markets. With offices in San Francisco, New York, London, Mumbai, Singapore and Sydney, Ripple has more than 200 customers around the world."
+  twitter: ripple
+  web: "https://ripple.com/"
+validator.ripple.com:
   name: Ripple
   description: "Ripple provides one frictionless experience to send money globally using the power of blockchain. By joining Ripple’s growing, global network (RippleNet), financial institutions can process their customers’ payments anywhere in the world instantly, reliably and cost-effectively. Banks and payment providers can use the digital asset XRP to further reduce their costs and access new markets. With offices in San Francisco, New York, London, Mumbai, Singapore and Sydney, Ripple has more than 200 customers around the world."
   twitter: ripple
@@ -137,6 +157,11 @@ www.bitrue.com:
   description: "Bitrue exchange is established by a group of blockchain enthusiasts and focus on cryptocurrency trading."
   twitter: "BitrueOfficial"
   web: "https://www.bitrue.com/"
+www.digieco.e.u-tokyo.ac.jp:
+  name: "Digital Economy at the University of Tokyo"
+  description: "The University of Tokyo is a public research university located in Bunkyo, Tokyo, Japan. Established in 1877 as the first imperial university, it is one of Japan's most prestigious universities."
+  twitter: "utokyo_news_en"
+  web: "https://www.u-tokyo.ac.jp/en/index.html"
 www.morgan.edu:
   name: "Morgan State University"
   description: "Morgan State University (MSU, Morgan State, or Morgan) is a public historically black university in Baltimore, Maryland. It is Maryland's largest of Maryland's historically black colleges and universities (HBCUs)."
@@ -152,6 +177,11 @@ xrp.coinfield.com:
   description: "CoinField™ is based in Vancouver, Canada and is the digital currency trading platform built with advanced technologies ensuring fast trades, a smooth user experience, top-of-the-line security offering one of the largest cryptocurrency portfolio worldwide."
   twitter: CoinFieldEX
   web: "https://www.coinfield.com/"
+xrp.coinfield.com:
+  name: "Duke University"
+  description: "Duke University is a private research university in Durham, North Carolina."
+  twitter: dukeu 
+  web: "https://duke.edu/"
 xrp.unic.ac.cy:
   name: "University Nicosia"
   description: "The University of Nicosia (UNIC) is the largest university in Cyprus, with its main campus located in Nicosia, the capital of Cyprus. It also runs study centres in Athens, Bucharest and New York City. The University of Nicosia has 12,000+ enrolled students from 70+ countries studying on its bachelor, master and doctoral degree programmes, that are delivered by its 6 schools."
